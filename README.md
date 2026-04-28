@@ -50,3 +50,6 @@ This project focuses on predicting the risk of heart disease using Machine Learn
 - Streamlit  
 - Joblib  
 
+
+## 👩‍💻 Author
+Ayesha Khan
